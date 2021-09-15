@@ -1,0 +1,17 @@
+[package]
+name = "sync-utils"
+version = "0.1.0"
+authors = ["Jing Yang <ditsing@gmail.com>"]
+edition = "2018"
+description = "More synchronization utils."
+documentation = "https://docs.rs/sync-utils"
+readme = "README.md"
+homepage = "https://github.com/ditsing/sync-utils"
+repository = "https://github.com/ditsing/sync-utils"
+license = "MIT"
+keywords = ["sync", "synchronization"]
+categories = ["concurrency"]
+
+[dependencies]
+
+[dev-dependencies]
